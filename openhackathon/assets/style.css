@@ -6,7 +6,7 @@
   .register-photo .image-holder {
     display:table-cell;
     width:auto;
-    background:url(/images/login_image.jpg);
+    background:url(/openhackathon/images/login_image.jpg);
     background-size:cover;
   }
   
